@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-//just checking
+//jus
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
