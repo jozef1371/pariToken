@@ -2,5 +2,5 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
 }
-//fuck the relatives
+//I hate tajdinvand
 module.exports = nextConfig
